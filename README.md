@@ -21,4 +21,4 @@ The primary objective of this project is to conduct comprehensive theoretical re
 2. Convolutional and deconvolutional operations shall be implemented as matrix operations
 
 # Final Model and conclusions
-After an extensive research, the final model constructed was a linear VAEs and ,due to limitaions, the dataset has been changed to MNIST. A more detailed conclusion can be found on the documentation.
+After an extensive research, the final model constructed was a linear VAEs and ,due to limitations, the dataset has been changed to MNIST. A more detailed conclusion can be found on the documentation.
